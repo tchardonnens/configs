@@ -29,3 +29,5 @@ KeepassXC: https://keepassxc.org/
 
 Google Drive: https://www.google.com/intl/fr/drive/download/
 
+Spotify: https://www.spotify.com/fr/download/other/
+
