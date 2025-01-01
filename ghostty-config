@@ -1,0 +1,12 @@
+theme = lovelace
+font-size = 16
+cursor-style = block
+
+# Quick terminal
+quick-terminal-position = center
+
+# Icon
+macos-icon = custom-style
+macos-icon-frame = aluminum
+macos-icon-screen-color = #000000
+macos-icon-ghost-color = #FFFFFF
