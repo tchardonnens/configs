@@ -1,5 +1,8 @@
 softwareupdate --install-rosetta --agree-to-license
 
+# Git
+git config --global push.autoSetupRemote true
+
 # Brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
